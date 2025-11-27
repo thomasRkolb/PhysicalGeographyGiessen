@@ -8,6 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: luminescence.qmd
+        text: Luminescence Dating
+      - href: lab.qmd
+        text: Giessen Luminescence Laborytory
+      - href: database.qmd
+        text: Luminescence Labs Worldwide
       - about.qmd
 
 format:

@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PhysicalGeographyGiessen",
+    "title": "Physical Geography Giessen",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "luminescence.html",
+    "href": "luminescence.html",
+    "title": "Luminescence Dating",
+    "section": "",
+    "text": "Experts\n\n\n\n\n\n\nThomas Kolb\n\n\nNov 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFundamentals of Luminescence Dating\n\n\n\n\n\n\nThomas Kolb\n\n\nNov 27, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "luminescence/basics/index.html",
+    "href": "luminescence/basics/index.html",
+    "title": "Fundamentals of Luminescence Dating",
+    "section": "",
+    "text": "test test"
+  },
+  {
+    "objectID": "luminescence/experts/index.html",
+    "href": "luminescence/experts/index.html",
+    "title": "Experts",
+    "section": "",
+    "text": "test\n\n\ntest"
+  },
+  {
+    "objectID": "luminescence/experts/index.html#subheader",
+    "href": "luminescence/experts/index.html#subheader",
+    "title": "Experts",
+    "section": "",
+    "text": "test"
   }
 ]
